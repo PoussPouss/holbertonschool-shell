@@ -1,0 +1,1 @@
+I start project Shell permission , we have 16 tasks to finished for learn Shell permissions.
