@@ -1,1 +1,21 @@
-ls -la
+total 76
+drwxr-xr-x 2 root root 4096 Feb 11 08:14 .
+drwxr-xr-x 6 root root 4096 Feb 11 07:53 ..
+-rwxr-xr-x 1 root root   32 Feb 11 07:53 0-hello_world
+-rwxr-xr-x 1 root root   28 Feb 11 07:53 1-confused_smiley
+-rwxr-xr-x 1 root root   28 Feb 11 07:53 2-hellofile
+-rwxr-xr-x 1 root root   39 Feb 11 07:53 3-twofiles
+-rwxr-xr-x 1 root root   29 Feb 11 07:53 4-lastlines
+-rwxr-xr-x 1 root root   29 Feb 11 07:53 5-firstlines
+-rwxr-xr-x 1 root root   40 Feb 11 07:53 6-third_line
+-rwxr-xr-x 1 root root   84 Feb 11 07:53 7-file
+-rwxr--r-- 1 root root   36 Feb 11 08:14 8-cwd_state
+-rw-r--r-- 1 root root  651 Feb 11 07:53 README.md
+-rw-r--r-- 1 root root   12 Feb 11 07:53 \*\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   36 Feb 11 07:53 \*\\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 11 07:53 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 11 07:53 \*\\'"Best School"\\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 11 07:53 \*\\'\"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Feb 11 07:53 \*\\'\"Best School\"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  785 Feb 11 07:53 iacta
+-rw-r--r-- 1 root root    0 Feb 11 08:14 ls_cwd_content
